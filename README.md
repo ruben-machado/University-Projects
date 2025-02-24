@@ -5,8 +5,8 @@
 ## A collection of projects done during my master's degree
 
 ## **Index**
-- [1. Budgeting for the future](#1.-Budgeting-for-the-future)
-- [2. Test](#2.-Test)
+[1. Budgeting for the future](#1.-Budgeting-for-the-future)
+[2. Test](#2.-Test)
 
 
 ## 📊 **1. Budgeting for the future**
