@@ -8,5 +8,8 @@
 
 ### 1. Budgeting for the future
 
-#### Overview
+#### 🔍 Overview
 This project aims to enhance the participatory budgeting process in Mining City through data-driven insights. By understanding residents' demographics and lifestyle preferences, the city council seeks to improve citizen engagement and optimize resource allocation. Using predictive modeling techniques, the goal is to classify residents into key lifestyle segments such as 'Travel Enthusiast,' 'Health-Conscious,' and 'Investor' to support data-informed decision-making. The project involves identifying relevant variables, implementing multiclass classification models, and optimizing predictions using the weighted F1 Score.
+
+#### 🛠️ Tools & Technologies
+Programming Language: Python
