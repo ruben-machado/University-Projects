@@ -13,18 +13,12 @@ This project aims to enhance the participatory budgeting process in Mining City 
 
 ### 🛠️ **Tools & Technologies**
 
-#### **Programming Language:**
-- Python
+#### **Programming Language**: `Python`
+
 #### **Libraries/Frameworks:**
-- **Data Manipulation & Analysis**:
-  - `pandas`
-  - `numpy`
-- **Data Visualization**:
-  - `matplotlib.pyplot`
-  - `seaborn`
-  - `plotly.express`
-- **Machine Learning**:
-  - `scikit-learn` (includes: `KNNImputer`, `SimpleImputer`, `MinMaxScaler`, `LabelEncoder`, `StandardScaler`, `LinearRegression`, `LassoCV`, `LogisticRegression`, `RidgeClassifier`, `RFE`, `SelectKBest`, `train_test_split`, `KFold`, `RandomizedSearchCV`, `StratifiedKFold`, `GridSearchCV`, `DecisionTreeClassifier`, `RandomForestClassifier`, `GradientBoostingClassifier`, `StackingClassifier`, `KNeighborsClassifier`, `PCA`, `accuracy_score`, `confusion_matrix`, `precision_score`, `recall_score`, `ConfusionMatrixDisplay`, `f1_score`, `classification_report`, `roc_curve`, `auc`, `make_scorer`)
+- **Data Manipulation & Analysis**: `pandas`,`numpy` 
+- **Data Visualization**: `matplotlib.pyplot`, `seaborn`,`plotly.express`
+- **Machine Learning**: `scikit-learn` (includes: `KNNImputer`, `SimpleImputer`, `MinMaxScaler`, `LabelEncoder`, `StandardScaler`, `LinearRegression`, `LassoCV`, `LogisticRegression`, `RidgeClassifier`, `RFE`, `SelectKBest`, `train_test_split`, `KFold`, `RandomizedSearchCV`, `StratifiedKFold`, `GridSearchCV`, `DecisionTreeClassifier`, `RandomForestClassifier`, `GradientBoostingClassifier`, `StackingClassifier`, `KNeighborsClassifier`, `PCA`, `accuracy_score`, `confusion_matrix`, `precision_score`, `recall_score`, `ConfusionMatrixDisplay`, `f1_score`, `classification_report`, `roc_curve`, `auc`, `make_scorer`)
 
 ### 📂 **Dataset**
 
