@@ -6,6 +6,8 @@
 
 ## **Index**
 - [1. Budgeting for the future](#1.-Budgeting-for-the-future)
+- - [2. Test](#2.-Test)
+
 
 ## 📊 **1. Budgeting for the future**
 
@@ -43,3 +45,5 @@ Several machine learning models were tested, including Decision Tree, Logistic R
     - Feature selection improved model interpretability and reduced complexity.
     - The Stacking Classifier provided the most accurate predictions by leveraging multiple models.
     - Future improvements include further hyperparameter tuning and testing additional ensemble techniques.
+
+## 📊 **2. Test**
