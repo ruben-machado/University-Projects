@@ -2,13 +2,11 @@
 
 # University Projects  
 
-## A collection of projects done during my master's degree
+Welcome to my University Projects Repository! This repository showcases data science, business intelligence, and data visualization projects completed during my master's degree. It includes code, datasets, and analyses, highlighting technical skills and practical applications.
 
-## **Index**
-[1. Budgeting for the future](#1.-Budgeting-for-the-future)
+## **Projects**
 
-[2. Test](#2.-Test)
+### 📊 **1. Budgeting for the future**
+This project enhances participatory budgeting in Mining City by classifying residents into lifestyle segments (e.g., Travel Enthusiast, Health-Conscious) using Python-based machine learning. Key steps included data preprocessing (handling missing values, feature engineering), feature selection, and multiclass classification models (Decision Tree, Random Forest, Gradient Boosting, Stacking Classifier). 
 
-
-
-## 📊 **2. Test**
+### 📊 **2. Test**
