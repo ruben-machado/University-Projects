@@ -11,6 +11,6 @@ This project enhances participatory budgeting in Mining City by classifying resi
 
 ### 📊 **2. Fabridoce**
 
-### 📊 **CO2 Emissions Impact on Natrural Disasters**
+### 📊 **3. CO2 Emissions Impact on Natrural Disasters**
 
 In this project, a Dashboard was created using Tableau to analyze the correlation between CO2 emissions and natural disaster occurrences. The dashboard focuses on the top 5 highest CO2-emitting countries, visualizing disaster trends, fatalities, and geographic patterns over decades through interactive line graphs, bubble charts, bar graphs, and a global map. It highlights the link between emissions and disaster frequency while considering factors like population density and infrastructure. Designed for decision-makers and the public, the dashboard aims to support informed climate action and disaster preparedness.
