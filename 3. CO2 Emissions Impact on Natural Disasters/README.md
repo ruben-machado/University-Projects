@@ -35,6 +35,6 @@ These files were integrated to provide a comprehensive view of disaster occurren
 ### 🚀 **Key Findings**
 
 - Correlation between CO2 emissions and disaster frequency: Higher CO2-emitting countries generally experience more natural disasters
-- Impact of population density and infrastructure: Countries like India and China, with high population densities and less developed infrastructure, suffer higher fatalities despite similar disaster frequencies
+- Impact of population density and infrastructure: Countries like India and China, with high population densities and less developed infrastructure, have historically suffered higher fatalities despite experiencing similar disaster frequencies
 - Geographic patterns: The map visualization highlights global disaster hotspots and trends over decades, aiding in identifying high-risk regions
 - Actionable insights: The dashboard emphasizes the need for climate action and improved disaster preparedness to mitigate future impacts
