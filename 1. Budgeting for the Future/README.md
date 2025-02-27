@@ -31,6 +31,6 @@ Several machine learning models were tested, including Decision Tree, Logistic R
 
 ### 🚀 **Key Findings & Next Steps**
 
-    - Feature selection improved model interpretability and reduced complexity.
-    - The Stacking Classifier provided the most accurate predictions by leveraging multiple models.
-    - Future improvements include further hyperparameter tuning and testing additional ensemble techniques.
+- Feature selection improved model interpretability and reduced complexity.
+- The Stacking Classifier provided the most accurate predictions by leveraging multiple models.
+- Future improvements include further hyperparameter tuning and testing additional ensemble techniques.
