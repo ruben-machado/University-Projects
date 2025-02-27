@@ -2,7 +2,7 @@
 
 # University Projects  
 
-Welcome to my University Projects Repository! This repository showcases data science, business intelligence, and data visualization projects completed during my master's degree. It includes code, datasets, and analyses, highlighting technical skills and practical applications.
+Welcome to my University Projects Repository! This repository showcases data science, business intelligence, and data visualization projects completed during my master's degree. It includes code, datasets, dashboards, and analyses, highlighting technical skills and practical applications.
 
 ## **Projects**
 
