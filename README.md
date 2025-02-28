@@ -7,7 +7,7 @@ Welcome to my University Projects Repository! This repository showcases data sci
 ## **Projects**
 
 ### 📊 **[1. Budgeting for the Future](https://github.com/ruben-machado/University-Projects/tree/main/1.%20Budgeting%20for%20the%20Future)**
-This project enhances participatory budgeting in Mining City by classifying residents into lifestyle segments (e.g., Travel Enthusiast, Health-Conscious) using Python-based machine learning. Key steps included data preprocessing (handling missing values, feature engineering), feature selection, and multiclass classification models (Decision Tree, Random Forest, Gradient Boosting, Stacking Classifier). 
+This project enhances participatory budgeting in Mining City by classifying residents into lifestyle segments (e.g., Travel Enthusiast, Health-Conscious) using Python-based machine learning. Key steps included data preprocessing (handling missing values, feature engineering), feature selection, and multiclass classification models (Decision Tree, Random Forest, Gradient Boosting, and Stacking Classifier). 
 
 ### 📊 **2. Fabridoce**
 
