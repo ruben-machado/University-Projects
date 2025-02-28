@@ -17,6 +17,7 @@ In this project, a Dashboard was created using Tableau to analyze the correlatio
 
 ### 📊 **4. House Pricing**
 
+This project demonstrates the benefits of data-driven pricing at Cuckoo Cribs Corporation. A predictive model, built in KNIME using regression techniques, outperformed subjective pricing methods. After testing Random Forest, Gradient Boosted Trees, and Polynomial Regression, the best-performing model was selected for deployment. Two implementation strategies were proposed, along with three practical applications for real estate agents. This approach improves pricing accuracy, operational efficiency, and investment decisions.
 
 
 ### 📊 **5. Hotel Cancellation Prediction**
