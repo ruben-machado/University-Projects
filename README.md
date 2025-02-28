@@ -15,7 +15,7 @@ This project enhances participatory budgeting in Mining City by classifying resi
 
 In this project, a Dashboard was created using Tableau to analyze the correlation between CO2 emissions and natural disaster occurrences. The dashboard focuses on the top 5 highest CO2-emitting countries, visualizing disaster trends, fatalities, and geographic patterns over decades through interactive line graphs, bubble charts, bar graphs, and a global map. It highlights the link between emissions and disaster frequency. Designed for decision-makers and the public, the dashboard aims to support informed climate action and disaster preparedness.
 
-### 📊 **4. House Pricing**
+### 📊 **4. House Pricing Regression**
 
 This project demonstrates the benefits of data-driven pricing at Cuckoo Cribs Corporation. A predictive model, built in KNIME using regression techniques, outperformed subjective pricing methods. After testing Random Forest, Gradient Boosted Trees, and Polynomial Regression, the best-performing model was selected for deployment. Two implementation strategies were proposed, along with three practical applications for real estate agents. This approach improves pricing accuracy, operational efficiency, and investment decisions.
 
