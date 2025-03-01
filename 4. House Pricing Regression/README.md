@@ -10,9 +10,9 @@ This project demonstrates the power of data-driven decision-making in real estat
 
 ### 🛠️ **Tools & Technologies**
 
-- **KNIME Analytics Platform**: Used for data preprocessing, model training, and evaluation.
-- **Regression Models**: Random Forest, Gradient Boosted Trees, and Polynomial Regression were tested.
-- **KNIME Nodes Used**: Rule Engine, String to Number, Partitioning, Correlation Filter, Min-Max Normalization, and various visualization nodes.
+- **KNIME Analytics Platform**: Used for data preprocessing, model training, and evaluation
+- **Regression Models**: Random Forest, Gradient Boosted Trees, and Polynomial Regression were tested
+- **KNIME Nodes Used**: Rule Engine, String to Number, Partitioning, Correlation Filter, Min-Max Normalization, and various visualization nodes
 
 ### 📂 **Dataset**
 
@@ -24,21 +24,17 @@ Key preprocessing steps included:
 - Data Splitting & Normalization – Applied a 70/30 partition on training data and Min-Max Normalization for consistency
 
 
-### 🚀 **Key Findings**
+### 🚀 **From Prediction to Action**
 
+After rigorous testing, the best-performing regression model was chosen based on accuracy, interpretability, and computational efficiency.
 
-
-Key Findings
-
-Best Model Selection – After rigorous testing, the best-performing regression model was chosen based on accuracy, interpretability, and computational efficiency.
-
-Deployment Strategies:
+**Deployment Strategies**:
 
 - User-Friendly Dashboard – An interactive interface where agents can input property details and receive price predictions
 - Mobile Application – A proposed app to provide instant property valuations and alerts on undervalued listings
 
-Practical Applications for Real Estate Agents:
+**Practical Applications for Real Estate Agents**:
 
-- Identifying Investment Opportunities – Using price predictions to spot undervalued properties and assess potential appreciation.
-- Accurate Price Determination – Ensuring competitive property pricing to attract buyers quickly and increase transaction efficiency.
-- Market Segmentation & Targeting – Leveraging data to refine marketing strategies and personalize property recommendations.
+- Identifying Investment Opportunities – Using price predictions to spot undervalued properties and assess potential appreciation
+- Accurate Price Determination – Ensuring competitive property pricing to attract buyers quickly and increase transaction efficiency
+- Market Segmentation & Targeting – Leveraging data to refine marketing strategies and personalize property recommendations
