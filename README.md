@@ -20,5 +20,6 @@ In this project, a Dashboard was created using Tableau to analyze the correlatio
 This project demonstrates the benefits of data-driven pricing at Cuckoo Cribs Corporation, a real estate company. A predictive model, built in KNIME using regression techniques, outperformed subjective pricing methods. The model was designed to replace subjective pricing methods with a systematic, data-backed approach, ensuring consistency and reliability. The best-performing model was selected after testing multiple regression techniques, leading to the development of a "pricing machine" for real estate agents. Two implementation strategies were proposed, along with three practical applications for real estate agents. This approach improves pricing accuracy, operational efficiency, and investment decisions.
 
 
-### 📊 **5. Hotel Cancellation Prediction**
+### 📊 **[5. Hotel Cancellation Prediction](https://github.com/ruben-machado/University-Projects/tree/main/5.%20Hotel%20Cancellation%20Prediction)**
 
+This project applies a data-driven approach to predict hotel cancellations for the Lorem Ipsum Hotel Group. Using KNIME, predictive models were developed to enhance revenue management and resource allocation. The findings offer insights for improving decision-making and business sustainability. Regular model updates and financial impact analysis are recommended to maintain accuracy and optimize outcomes. This approach aims to balance operational efficiency with an improved guest experience.
