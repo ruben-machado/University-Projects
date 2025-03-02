@@ -10,23 +10,23 @@ This project demonstrates the power of data-driven decision-making in real estat
 
 ### 🛠️ **Tools & Technologies**
 
-- **KNIME Analytics Platform**: Used for data preprocessing, model training, and evaluation
-- **Regression Models**: Random Forest, Gradient Boosted Trees, and Polynomial Regression were tested
+- **Software**: **KNIME** - used for data preprocessing, model training, and evaluation
 - **KNIME Nodes Used**: Rule Engine, String to Number, Partitioning, Correlation Filter, Min-Max Normalization, and various visualization nodes
+- **Machine Learning Models**: Random Forest, Gradient Boosted Trees, and Polynomial Regression were tested
 
 ### 📂 **Dataset**
 
-The dataset comprises 1,460 rows and 80 variables related to house pricing. Exploratory data analysis was conducted using scatter plots and bar charts.
+Two datasets were provided: RealEstateData (containing 1,460 rows and 80 variables) and TestData, both related to house pricing. Exploratory data analysis was conducted using scatter plots and bar charts.
+
 Key preprocessing steps included:
 
 - Handling Missing Values – Converted "NA" entries to empty values and applied mean/mode imputation
 - Feature Selection – Removed highly correlated variables (threshold: 0.8) while retaining GarageArea for its predictive importance
-- Data Splitting & Normalization – Applied a 70/30 partition on training data and Min-Max Normalization for consistency
-
+- Data Splitting & Normalization – Applied a 70/30 partition on training data and performed Min-Max Normalization to ensure consistency across both datasets
 
 ### 🚀 **From Prediction to Action**
 
-After rigorous testing, the best-performing regression model was chosen based on accuracy, interpretability, and computational efficiency.
+After rigorous testing, the best-performing regression model was chosen based on accuracy, interpretability, and computational efficiency. Model performance was evaluated using R², RMSE, and MAPE metrics.
 
 **Deployment Strategies**:
 
@@ -38,3 +38,5 @@ After rigorous testing, the best-performing regression model was chosen based on
 - Identifying Investment Opportunities – Using price predictions to spot undervalued properties and assess potential appreciation
 - Accurate Price Determination – Ensuring competitive property pricing to attract buyers quickly and increase transaction efficiency
 - Market Segmentation & Targeting – Leveraging data to refine marketing strategies and personalize property recommendations
+
+The final outcome of the project is the House_Prediction file, containing predicted property prices based on the trained model.
