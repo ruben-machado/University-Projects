@@ -7,7 +7,7 @@ This project applies a data-driven approach to predict hotel cancellations for t
 ### 🛠️ **Tools & Technologies**
 
 - **Software**: `KNIME` (used for data preprocessing, model training, and evaluation)
-- **KNIME Nodes Used**: Data preprocessing (CSV Reader, String Replacer, String to Number), visualization (various descriptive statistics and chart nodes), model training, evaluation (Scorer, Confusion Matrix, Binary Classification Inspector)
+- **KNIME Nodes**: Data Preprocessing (CSV Reader, String Replacer, String to Number, Partitioning, Column Filter), Visualization (various descriptive statistics and chart nodes), Model Training, Evaluation (Scorer, Confusion Matrix, Binary Classification Inspector)
 - **Machine Learning Models**: Decision Tree and Random Forest
 
 ### 📂 **Dataset**
