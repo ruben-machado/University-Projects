@@ -16,8 +16,8 @@ The dataset comprises 72,646 rows and 25 variables related to hotel cancellation
 
 ### 🚀 **Key Insights**
 
-- The Decision Tree model achieved an accuracy of 81.05%, slightly outperforming the Random Forest model (80.619%).
-- The ROC AUC metric was used to evaluate model performance, revealing that the Decision Tree had superior classification capabilities.
-- A cost-benefit analysis of false positives (missed cancellations) and false negatives (incorrect cancellations) is recommended to optimize model sensitivity.
-- Continuous monitoring and model updates are crucial to maintaining predictive accuracy, incorporating new features such as guest reviews and booking behaviors.
-- Implementing a data-driven cancellation management strategy can enhance revenue management, optimize resource allocation, and improve guest satisfaction.
+- The Decision Tree model achieved an accuracy of 81.05%, slightly outperforming the Random Forest model (80.619%)
+- The ROC AUC metric was used to evaluate model performance, revealing that the Decision Tree had superior classification capabilities
+- Conducting a cost-benefit analysis of false positives (missed cancellations) and false negatives (incorrect cancellations) is recommended to fine-tune model sensitivity
+- Continuous monitoring and model updates are crucial to maintaining predictive accuracy, incorporating new features such as guest reviews and booking behaviors
+- Implementing a data-driven cancellation management strategy can enhance revenue management, optimize resource allocation, and improve guest satisfaction
