@@ -11,7 +11,7 @@ This project demonstrates the power of data-driven decision-making in real estat
 ### 🛠️ **Tools & Technologies**
 
 - **Software**: `KNIME`(used for data preprocessing, model training, and evaluation)
-- **KNIME Nodes Used**: Rule Engine, String to Number, Partitioning, Correlation Filter, Min-Max Normalization, and various visualization nodes
+- **KNIME Nodes**: Data Ingestion & Preprocessing (CSV Reader, Rule Engine, String to Number, Partitioning, Data Preparation, Column Filter), Visualization & Exploration (Data Explorer, Statistics View, Color Manager, Scatter Plot, Bar Chart), Model Training, Model Evaluation (Numeric Scorer).
 - **Machine Learning Models**: Random Forest, Gradient Boosted Trees, and Polynomial Regression were tested
 
 ### 📂 **Dataset**
