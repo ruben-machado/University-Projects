@@ -61,7 +61,7 @@ A staging area was created with one pipeline and seven distinct dataflows—one 
 
 The dim_seller table required an extra step: calculating the seller’s age from birthdate. The dim_date table was generated using Power Query, defining the 2013–2018 analysis period and creating relevant time attributes.
 
-#### **Data Validation**
+#### **Data Validation Pipeline**
 
 A validation pipeline was implemented to ensure data consistency. Four key rules were applied:
 
@@ -76,6 +76,10 @@ Results were logged in log_quality_checks, recording validation status and ident
 
 After validation, data was loaded into the final Data Warehouse using a structured pipeline:
 
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Load_DW_Pipeline.jpg" alt="image alt" width="550" height="450">
+</div>
+
 - Existing data in the DW tables was cleared.
 - Dimension tables were populated first, with surrogate keys assigned.
 - Fact table was loaded last, replacing foreign keys with surrogate keys through merges in the dataflow.
@@ -83,6 +87,10 @@ After validation, data was loaded into the final Data Warehouse using a structur
 #### **Full Load Pipeline & Automation**
 
 A Full Load Pipeline was implemented to automate the entire ETL process:
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Full_Load_Pipeline.jpg" alt="image alt" width="700" height="450">
+</div>
 
 - Data was loaded into the Staging Area.
 - Validation checks were executed.
