@@ -109,6 +109,7 @@ A Full Load Pipeline was implemented to automate the entire ETL process:
 <div align="center">
   <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Full_Load_Pipeline.jpg" alt="image alt" width="600" height="400">
 </div>  
+<br>
 
 This structured ETL process ensures data integrity, reliability, and automation, streamlining the transition from raw data to a fully operational Data Warehouse.
 
