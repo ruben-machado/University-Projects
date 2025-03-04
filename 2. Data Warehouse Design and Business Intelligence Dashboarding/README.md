@@ -2,12 +2,20 @@
 
 ### 🔍 **Overview**
 
+Fabridoce, a company in the food industry, faced challenges in analyzing sales performance, product trends, and overall business metrics efficiently. To address these needs and answer key strategic questions, a Data Warehouse (DW) solution was developed.
+This project covers the entire data pipeline process, from data extraction and transformation to loading and reporting. Using Microsoft Fabric, the DW was structured to integrate data from multiple sources, ensuring consistency and reliability. A well-defined ETL process was implemented to clean, transform, and validate data before populating the warehouse.
+To support data analysis, a Semantic Model was built, providing a structured framework for querying and generating insights. Finally, a set of reports and dashboards were created using Microsoft Fabric, Power BI Report Builder, and Power BI Desktop, delivering dynamic and interactive visualizations to drive data-driven decision-making.
+
+#### **Note:**
+
+This project was developed in an academic context as part of the Business Intelligence I & II courses. Some of the data used is artificial or modified for educational purposes. Therefore, no real conclusions or insights should be drawn regarding Fabridoce’s actual sales, business performance, or market context. The objective of this project is to demonstrate the design and implementation of a Data Warehouse, ETL processes, and business intelligence reporting.
 
 ### 🛠️ **Tools & Technologies**
 
-- **Data Visualization Software**: 
-- **Data Analysis**: 
-- **Visualizations**:
+- **Data Storage & Management:** Microsoft Fabric Lakehouse, SQL
+- **ETL & Data Processing:** Microsoft Fabric Pipelines, Dataflows, Power Query
+- **Data Modeling:** Microsoft Fabric Semantic Model, Power BI Desktop
+- **Reporting & Visualization:** Power BI Desktop, Microsoft Report Builder, Microsoft Fabric
   
 ### 📂 **Data Source**
 
@@ -17,7 +25,7 @@ Key attributes included sales quantities, revenue, product hierarchies, pricing,
 
 To meet class requirements, part of the data was artificially generated while maintaining consistency with the original dataset. 
 
-### 🛠️ **Data Warehouse Design**
+### 🏗️ **Data Warehouse Design**
 
 In data warehousing, dimensions provide descriptive attributes that give context to facts (quantitative data), enabling structured business analysis. As Kimball Group states, “Dimension tables are the soul of the data warehouse”, as they drive the user’s BI experience.
 
@@ -182,8 +190,7 @@ Additionally, two interactive dashboard-style reports were designed using Micros
 </div> 
 <br>
 
-
 These reports offer a structured and interactive approach to analyzing sales, product performance, and customer data, supporting data-driven decision-making.
 
- 
-### 🚀 **Key Findings**
+For more details about the project, check the Report PDF, which provides an in-depth explanation of the process, methodologies, and findings.
+
