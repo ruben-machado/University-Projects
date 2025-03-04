@@ -4,6 +4,8 @@
 
 This project applies a data-driven approach to predict hotel cancellations for the Lorem Ipsum Hotel Group, enabling proactive decision-making and improved revenue management. By leveraging historical booking data, the goal was to develop predictive models that help optimize resource allocation and minimize revenue losses caused by last-minute cancellations. Using KNIME, data preprocessing techniques were applied, followed by model training and evaluation. The findings provide actionable insights to enhance business sustainability and customer satisfaction. Regular model updates and financial impact analysis are recommended to maintain accuracy and optimize outcomes. This approach aims to balance operational efficiency with an improved guest experience.
 
+Note: This group project was developed in an academic context as part of the Data-Driven Decision-Making course. The data was provided by the professors.
+
 ### 🛠️ **Tools & Technologies**
 
 - **Software**: `KNIME` (used for data preprocessing, model training, and evaluation)
