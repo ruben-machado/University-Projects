@@ -112,4 +112,27 @@ A Full Load Pipeline was implemented to automate the entire ETL process:
 
 This structured ETL process ensures data integrity, reliability, and automation, streamlining the transition from raw data to a fully operational Data Warehouse.
 
+
+### 🧩 **Semantic Model**
+
+Following the development of the data warehouse, a semantic model named "SM Fabridoce Sales" was created to support the generation of insightful reports and dashboards. This new model, which is a copy of the original one, enables a structured approach to answering business questions effectively and allows testing transformations, measures, and relationships without affecting the original dataset.
+
+To enhance clarity, dimension tables and variables were renamed, unnecessary attributes were hidden, and hierarchies were established to improve data organization. Additionally, foreign keys (FKs) in the fact table were mapped to their corresponding surrogate keys (SKs) in the dimension tables, ensuring a coherent relational structure.
+
+A crucial step in this process was the development of measures and Key Performance Indicators (KPIs) tailored to business objectives. Using Fabric and Power BI Desktop, various calculated and quick measures were implemented to analyze sales performance, profitability, and market trends.
+Key Measures and KPIs
+
+📌 Fabric Measures:
+
+    Average Sale Amount – Tracks the average selling price of products.
+    Gross Profit & Net Profit – Measures profitability before and after expenses.
+    KPI Gross Profit Margin – Assesses profitability percentage.
+    MoM Revenue Change – Evaluates month-over-month revenue trends.
+    Total Sales & Expenses – Provides insights into revenue and cost structure.
+
+📌 Power BI Measures:
+
+    Market Share % – Determines each product's contribution to total sales.
+    Sales Growth % (2017-2018) – Measures year-over-year sales performance.
+ 
 ### 🚀 **Key Findings**
