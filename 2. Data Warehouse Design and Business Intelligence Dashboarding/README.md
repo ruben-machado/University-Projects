@@ -137,9 +137,10 @@ Key Measures and KPIs
 
 ### 📊 **Reports and Dashboards**
 
-Following the establishment of the semantic model, reports and dashboards were developed to effectively address the business problem. Utilizing Microsoft Fabric, two table-based reports were created, including those built with Microsoft Report Builder.
+Following the establishment of the semantic model, a total of six reports were developed to effectively address the business problem. 
+This includes four paginated reports, two created in Microsoft Fabric and two in Power BI Report Builder, providing structured, table-based insights.
 
-Additionally, Microsoft Power BI Desktop was used to design two interactive reports, incorporating advanced analytical features to provide deeper insights into the Fabridoce case. Each report consists of three pages:
+Additionally, two interactive dashboard-style reports were designed using Microsoft Power BI Desktop, using advanced analytical features for exploration of the Fabridoce case. Each Power BI report consists of three pages:
 
 - **Products Report: Covers Sales Overview, Product Performance, and Top 5 Products**
 
