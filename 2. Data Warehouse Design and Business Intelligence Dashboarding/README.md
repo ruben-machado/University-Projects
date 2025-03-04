@@ -8,7 +8,7 @@ To support data analysis, a Semantic Model was built, providing a structured fra
 
 #### **Note:**
 
-This project was developed in an academic context as part of the Business Intelligence I & II courses. Some of the data used is artificial or modified for educational purposes. Therefore, no real conclusions or insights should be drawn regarding Fabridoce’s actual sales, business performance, or market context. The objective of this project is to demonstrate the design and implementation of a Data Warehouse, ETL processes, and business intelligence reporting.
+This group project was developed in an academic context as part of the Business Intelligence I & II courses. Some of the data used is artificial or modified for educational purposes. Therefore, no real conclusions or insights should be drawn regarding Fabridoce’s actual sales, business performance, or market context. The objective of this project is to demonstrate the design and implementation of a Data Warehouse, ETL processes, and business intelligence reporting.
 
 ### 🛠️ **Tools & Technologies**
 
@@ -129,7 +129,6 @@ After the development of the data warehouse, a semantic model named "SM Fabridoc
 To enhance clarity, dimension tables and variables were renamed, unnecessary attributes were hidden, and hierarchies were established to improve data organization. Additionally, foreign keys (FKs) in the fact table were mapped to their corresponding surrogate keys (SKs) in the dimension tables, ensuring a coherent relational structure.
 
 A crucial step in this process was the development of measures and Key Performance Indicators (KPIs) tailored to business objectives. Using Fabric and Power BI Desktop, various calculated and quick measures were implemented to analyze sales performance, profitability, and market trends.
-Key Measures and KPIs
 
 📌 Fabric Measures:
 
