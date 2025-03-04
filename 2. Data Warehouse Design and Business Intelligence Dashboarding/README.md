@@ -24,7 +24,7 @@ In data warehousing, dimensions provide descriptive attributes that give context
 This project follows a Star Schema with one Fact Table and six Dimension Tables, ensuring optimized query performance and ease of analysis. Surrogate keys were introduced in Microsoft Fabric to maintain referential integrity.
 
 <div align="center">
-  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Star_Schema.jpg" alt="image alt" width="550" height="480">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Star_Schema.jpg" alt="image alt" width="550" height="480">
 </div>
 
 #### **Dimension Tables**
@@ -61,6 +61,10 @@ A staging area was created with one pipeline and seven distinct dataflows—one 
 
 The dim_seller table required an extra step: calculating the seller’s age from birthdate. The dim_date table was generated using Power Query, defining the 2013–2018 analysis period and creating relevant time attributes.
 
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Load_STG_Pipeline.jpg" alt="image alt" width="600" height="450">
+</div>
+
 #### **Data Validation Pipeline**
 
 A validation pipeline was implemented to ensure data consistency. Four key rules were applied:
@@ -72,6 +76,12 @@ A validation pipeline was implemented to ensure data consistency. Four key rules
 
 Results were logged in log_quality_checks, recording validation status and identifying potential issues.
 
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Validate_STG_Pipeline.jpg" alt="image alt" width="900" height="450">
+</div>
+
+
 #### **Loading the Data Warehouse**
 
 After validation, data was loaded into the final Data Warehouse using a structured pipeline:
@@ -82,7 +92,7 @@ After validation, data was loaded into the final Data Warehouse using a structur
 
 
 <div align="center">
-  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Load_DW_Pipeline.jpg" alt="image alt" width="550" height="450">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Load_DW_Pipeline.jpg" alt="image alt" width="650" height="450">
 </div>
 
 #### **Full Load Pipeline & Automation**
@@ -97,7 +107,7 @@ A Full Load Pipeline was implemented to automate the entire ETL process:
 
 
 <div align="center">
-  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Full_Load_Pipeline.jpg" alt="image alt" width="700" height="450">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Full_Load_Pipeline.jpg" alt="image alt" width="600" height="400">
 </div>  
 
 This structured ETL process ensures data integrity, reliability, and automation, streamlining the transition from raw data to a fully operational Data Warehouse.
