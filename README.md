@@ -11,7 +11,7 @@ This project enhances participatory budgeting in Mining City by classifying resi
 
 ### 📊 **[2. Data Warehouse & BI Dashboards](https://github.com/ruben-machado/University-Projects/tree/main/2.%20Data%20Warehouse%20%26%20BI%20Dashboards)**
 
-This project focused on developing a structured Data Warehouse (DW) for Fabridoce’s sales data using the Kimball methodology. The ETL process was implemented to consolidate diverse datasets into a Star Schema, ensuring efficient querying. Built on Microsoft Fabric, the DW was enhanced with a semantic model to simplify data interpretation. Additionally, interactive dashboards and paginated reports were developed in Power BI, enabling stakeholders to explore trends and make data-driven decisions. The project improved business insights through dynamic visualizations and advanced DAX measures.
+This project focused on developing a structured Data Warehouse (DW) for Fabridoce’s sales data using the Kimball methodology. The ETL process was implemented to consolidate diverse datasets into a Star Schema, ensuring efficient querying. Built on Microsoft Fabric, the DW was enhanced with a semantic model to simplify data interpretation. Additionally, interactive dashboards and paginated reports were developed in Fabric, Power BI, and Power BI Report Builder enabling users to explore trends and make data-driven decisions. The project improved business insights through dynamic visualizations and DAX measures.
 
 ### 📊 **[3. CO2 Emissions Impact on Natrural Disasters](https://github.com/ruben-machado/University-Projects/tree/main/3.%20CO2%20Emissions%20Impact%20on%20Natural%20Disasters)**
 
