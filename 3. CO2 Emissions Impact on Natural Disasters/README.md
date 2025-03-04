@@ -14,6 +14,8 @@ Link to Dashboard: https://public.tableau.com/views/CO2EmissionsImpactonNaturalD
 
 Tip: For the best experience, click the full-screen mode icon at the bottom of the visualization.
 
+Note: This group project was developed in an academic context as part of the Data Visualization course.
+
 ### 🛠️ **Tools & Technologies**
 
 - **Data Visualization Software**: Tableau
