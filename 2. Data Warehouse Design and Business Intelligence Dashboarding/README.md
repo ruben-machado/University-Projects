@@ -134,5 +134,54 @@ Key Measures and KPIs
 
     Market Share % – Determines each product's contribution to total sales.
     Sales Growth % (2017-2018) – Measures year-over-year sales performance.
+
+### 📊 **Reports and Dashboards**
+
+Following the establishment of the semantic model, reports and dashboards were developed to effectively address the business problem. Utilizing Microsoft Fabric, two table-based reports were created, including those built with Microsoft Report Builder.
+
+Additionally, Microsoft Power BI Desktop was used to design two interactive reports, incorporating advanced analytical features to provide deeper insights into the Fabridoce case. Each report consists of three pages:
+
+- **Products Report: Covers Sales Overview, Product Performance, and Top 5 Products**
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Dashboards%20and%20Reports/Sales_Overview.png" alt="image alt" width="900" height="500">
+</div>  
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Dashboards%20and%20Reports/Products_Performance.png" alt="image alt" width="900" height="500">
+</div> 
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Dashboards%20and%20Reports/Top_5_Products_2018.png" alt="image alt" width="900" height="500">
+</div> 
+
+<br>
+
+- **Sellers, Clients, and Locations Report: Focuses on Sellers' Info, Clients, and Locations**
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Dashboards%20and%20Reports/Sellers'_info.png" alt="image alt" width="900" height="500">
+</div> 
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Dashboards%20and%20Reports/Clients.png" alt="image alt" width="900" height="500">
+</div> 
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Dashboards%20and%20Reports/Location.png" alt="image alt" width="900" height="500">
+</div> 
+<br>
+
+
+These reports offer a structured and interactive approach to analyzing sales, product performance, and customer data, supporting data-driven decision-making.
+
  
 ### 🚀 **Key Findings**
