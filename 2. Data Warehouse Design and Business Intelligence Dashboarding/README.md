@@ -1,5 +1,9 @@
 ## 📊 **2. Data Warehouse Design and Business Intelligence Dashboarding**
 
+<div align="center">
+  <img src="https://github.com/ruben-machado/University-Projects/blob/main/2.%20Data%20Warehouse%20Design%20and%20Business%20Intelligence%20Dashboarding/Images/Product.png" alt="image alt" width="570" height="420">
+</div>
+
 ### 🔍 **Overview**
 
 Fabridoce, a company in the food industry, faced challenges in analyzing sales performance, product trends, and overall business metrics efficiently. To address these needs and answer key strategic questions, a Data Warehouse (DW) solution was developed.
