@@ -8,6 +8,8 @@
 
 This project demonstrates the power of data-driven decision-making in real estate pricing. By leveraging machine learning techniques, a predictive model was developed to enhance pricing accuracy, operational efficiency, and investment decision-making at Cuckoo Cribs Corporation. The model was designed to replace subjective pricing methods with a systematic, data-backed approach, ensuring consistency and reliability. The best-performing model was selected after testing multiple regression techniques, leading to the development of a "pricing machine" for real estate agents.
 
+Note: This group project was developed in an academic context as part of the Data-Driven Decision-Making course. The data was provided by the professors.
+
 ### 🛠️ **Tools & Technologies**
 
 - **Software**: `KNIME`(used for data preprocessing, model training, and evaluation)
