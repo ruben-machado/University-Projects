@@ -9,7 +9,7 @@ Welcome to my University Projects Repository! This repository showcases data sci
 ### 📊 **[1. Budgeting for the Future](https://github.com/ruben-machado/University-Projects/tree/main/1.%20Budgeting%20for%20the%20Future)**
 This project enhances participatory budgeting in Mining City by classifying residents into lifestyle segments (e.g., Travel Enthusiast, Health-Conscious) using Python-based machine learning. Key steps included data preprocessing (handling missing values, feature engineering), feature selection, and multiclass classification models (Decision Tree, Random Forest, Gradient Boosting, and Stacking Classifier). 
 
-### 📊 **2. Data Warehouse Design and Business Intelligence Dashboarding**
+### 📊 **[2. Data Warehouse & BI Dashboards](https://github.com/ruben-machado/University-Projects/tree/main/2.%20Data%20Warehouse%20%26%20BI%20Dashboards)**
 
 This project focused on developing a structured Data Warehouse (DW) for Fabridoce’s sales data using the Kimball methodology. The ETL process was implemented to consolidate diverse datasets into a Star Schema, ensuring efficient querying. Built on Microsoft Fabric, the DW was enhanced with a semantic model to simplify data interpretation. Additionally, interactive dashboards and paginated reports were developed in Power BI, enabling stakeholders to explore trends and make data-driven decisions. The project improved business insights through dynamic visualizations and advanced DAX measures.
 
