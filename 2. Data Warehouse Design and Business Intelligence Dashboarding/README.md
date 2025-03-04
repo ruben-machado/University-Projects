@@ -116,7 +116,7 @@ This structured ETL process ensures data integrity, reliability, and automation,
 
 ### 🧩 **Semantic Model**
 
-Following the development of the data warehouse, a semantic model named "SM Fabridoce Sales" was created to support the generation of insightful reports and dashboards. This new model, which is a copy of the original one, enables a structured approach to answering business questions effectively and allows testing transformations, measures, and relationships without affecting the original dataset.
+After the development of the data warehouse, a semantic model named "SM Fabridoce Sales" was created to support the generation of insightful reports and dashboards. This new model, which is a copy of the original one, enables a structured approach to answering business questions effectively and allows testing transformations, measures, and relationships without affecting the original dataset.
 
 To enhance clarity, dimension tables and variables were renamed, unnecessary attributes were hidden, and hierarchies were established to improve data organization. Additionally, foreign keys (FKs) in the fact table were mapped to their corresponding surrogate keys (SKs) in the dimension tables, ensuring a coherent relational structure.
 
